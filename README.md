@@ -52,19 +52,18 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 
 <div align="center">
   
-  ![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats Weighted](stats/leaderboard_by_weighted.png)
+
+![Language Stats Bytes](stats/leaderboard_by_bytes.png)
 
 </div>
 
 ---
 
+<br>
+
 <div align="center">
   <i>¡Siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos!</i>
-</div>
 </div>
 
 ---
-
-<div align="center">
-  <i>¡Siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos!</i>
-</div>
