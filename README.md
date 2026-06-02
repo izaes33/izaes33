@@ -53,7 +53,7 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 <div align="left">
   
   <img src="https://github-readme-stats-two-lemon-91.vercel.app/api/top-langs/?username=izaes33&langs_count=8&layout=compact&theme=react&cache_seconds=86400" alt="Top Lenguajes de Izan" height="165" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-two-lemon-91.vercel.app/api?username=izaes33&show_icons=true&theme=react&rank_icon=github&hide_border=true&hide_title=true&cache_seconds=86400" alt="Estadísticas Generales de Izan" height="165" />
 
 </div>
