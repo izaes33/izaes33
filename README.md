@@ -15,19 +15,31 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 ## 🛠️ Tecnologías y Herramientas
 
 ### Back-end & Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgres" alt="Backend and Database Icons" />
+</p>
+
 - **Lenguajes:** Java (Programación Orientada a Objetos, Funcional)
 - **Bases de Datos:** MySQL, PostgreSQL, SQL (Triggers, Transacciones, Diseño E-R)
-- **Arquitectura y Contenedores:** Docker, Patrones MVC y DAO
+- **Arquitectura:** Patrones MVC y DAO
 
 ### Front-end
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="Frontend Icons" />
+</p>
+
 - **Estilos y Maquetación:** Tailwind CSS, Flexbox, CSS Grid
 - **Animaciones e Interacciones:** GSAP
 
-### Sistemas y Entornos
-- Administración de sistemas Linux y Windows (Gestión de procesos, permisos, variables de entorno)
+### Sistemas, Entornos y Contenedores
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker" alt="Systems and Tools Icons" />
+</p>
+
+- **Sistemas Operativos:** Administración de sistemas Linux y Windows (Gestión de procesos, permisos, variables de entorno)
+- **Virtualización:** Despliegue de motores de bases de datos mediante contenedores Docker
 
 <br>
-
 ## 🚀 Proyectos Destacados
 
 - **EventManager & Frecuenz:** Desarrollo integral compuesto por una aplicación de gestión construida en Java (Back-end) y *Frecuenz*, una *landing page* web orientada a la venta de entradas.
