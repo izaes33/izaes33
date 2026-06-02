@@ -1,4 +1,4 @@
-# Hola, soy Izan 👋 <img src="ruta/a/tu/monograma.png" alt="Monograma Izan" width="200" align="right" />
+# Hola, soy Izan 👋 <img src=monograma_01.png alt="Monograma Izan" width="200" align="right" />
 
 Desarrollador en formación con un gran interés en construir soluciones robustas "End-to-End", desde el diseño de la base de datos hasta la interfaz de usuario, priorizando buenas prácticas y arquitecturas escalables.
 
