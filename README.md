@@ -40,6 +40,7 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 - **Virtualización:** Despliegue de motores de bases de datos mediante contenedores Docker
 
 <br>
+
 ## 🚀 Proyectos Destacados
 
 - **[EventManager & Frecuenz](https://github.com/izaes33/ProyectoIntermodular):** Desarrollo integral compuesto por una aplicación de gestión construida en Java (Back-end) y *Frecuenz*, una *landing page* web orientada a la venta de entradas.
