@@ -50,7 +50,7 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 
 ## 📊 Mis Estadísticas en GitHub
 
-<div align="center">
+<div align="left">
   
   <img src="https://github-readme-stats-two-lemon-91.vercel.app/api/top-langs/?username=izaes33&langs_count=8&layout=compact&theme=react&cache_seconds=86400" alt="Top Lenguajes de Izan" height="165" />
   &nbsp;&nbsp;&nbsp;&nbsp;
