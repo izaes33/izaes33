@@ -1,12 +1,16 @@
-# Hola, soy Izan 👋 <img src=monograma_01.png alt="Monograma Izan" width="200" align="right" />
+# Hola, soy Izan 👋 <img src="monograma01.png" alt="Logo Izan" width="200" align="right" />
 
 Desarrollador en formación con un gran interés en construir soluciones robustas "End-to-End", desde el diseño de la base de datos hasta la interfaz de usuario, priorizando buenas prácticas y arquitecturas escalables.
+
+<br clear="both">
 
 ## 🎓 Educación y Formación
 
 - 💻 **Desarrollo de Aplicaciones Web (DAW)** - Cursando 1º de CFGS.
 - 🛡️ **Máster en Ciberseguridad** - PROMETEO (En curso).
 - 📊 **Máster en Data Analytics** - PROMETEO (En curso).
+
+<br>
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -22,12 +26,14 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 ### Sistemas y Entornos
 - Administración de sistemas Linux y Windows (Gestión de procesos, permisos, variables de entorno)
 
+<br>
+
 ## 🚀 Proyectos Destacados
 
 - **EventManager & Frecuenz:** Desarrollo integral compuesto por una aplicación de gestión construida en Java (Back-end) y *Frecuenz*, una *landing page* web orientada a la venta de entradas.
 - **Implementación de Menú Relacional (MPO):** Creación de un flujo de comunicación completo (UI -> Service -> DAO -> BD) diseñado para filtrar y presentar información dinámicamente según el contexto y los permisos del usuario logueado.
 
----
+<br>
 
 ## 📊 Mis Estadísticas en GitHub
 
@@ -35,6 +41,13 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
   
   ![Language Stats](stats/leaderboard_by_lines.png)
 
+</div>
+
+---
+
+<div align="center">
+  <i>¡Siempre dispuesto a aprender nuevas tecnologías y afrontar nuevos retos!</i>
+</div>
 </div>
 
 ---
