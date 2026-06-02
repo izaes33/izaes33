@@ -46,6 +46,11 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 - **[EventManager & Frecuenz](https://github.com/izaes33/ProyectoIntermodular):** Desarrollo integral compuesto por una aplicación de gestión construida en Java (Back-end) y *Frecuenz*, una *landing page* web orientada a la venta de entradas.
 - **Implementación de Menú Relacional (MPO):** Creación de un flujo de comunicación completo (UI -> Service -> DAO -> BD) diseñado para filtrar y presentar información dinámicamente según el contexto y los permisos del usuario logueado.
 
+### 🎫 Frecuenz
+Landing page optimizada para la gestión y venta de entradas.
+- 🌍 **Demo en vivo:** [https://proyecto-intermodular-black.vercel.app/](https://proyecto-intermodular-black.vercel.app/)
+- 💻 **Stack:** Frontend responsivo con Tailwind CSS, Flexbox/Grid y animaciones mediante GSAP.
+
 <br>
 
 ## 📊 Mis Estadísticas en GitHub
