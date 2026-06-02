@@ -42,7 +42,7 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 <br>
 ## 🚀 Proyectos Destacados
 
-- **EventManager & Frecuenz:** Desarrollo integral compuesto por una aplicación de gestión construida en Java (Back-end) y *Frecuenz*, una *landing page* web orientada a la venta de entradas.
+- **[EventManager & Frecuenz](https://github.com/izaes33/ProyectoIntermodular):** Desarrollo integral compuesto por una aplicación de gestión construida en Java (Back-end) y *Frecuenz*, una *landing page* web orientada a la venta de entradas.
 - **Implementación de Menú Relacional (MPO):** Creación de un flujo de comunicación completo (UI -> Service -> DAO -> BD) diseñado para filtrar y presentar información dinámicamente según el contexto y los permisos del usuario logueado.
 
 <br>
