@@ -48,7 +48,7 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 
  ### 🎫 Frecuenz
 Landing page optimizada para la gestión y venta de entradas.
-- 🌍 **Demo en vivo:** <a href="https://proyecto-intermodular-black.vercel.app/" target="_blank">Visitar Frecuenz</a>
+- 🌍 **Demo en vivo:** <a href="https://proyecto-intermodular-black.vercel.app/" target="_blank" rel="noopener noreferrer">Visitar Frecuenz</a>
 - 💻 **Stack:** Frontend responsivo con Tailwind CSS, Flexbox/Grid y animaciones mediante GSAP.
 
 <br>
