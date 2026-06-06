@@ -51,7 +51,7 @@ Landing page optimizada para la gestión y venta de entradas.
 - 🌍 **Demo en vivo:** <a href="https://proyecto-intermodular-black.vercel.app/" target="_blank" rel="noopener noreferrer">Visitar Frecuenz</a>
 - 💻 **Stack:** Frontend responsivo con Tailwind CSS, Flexbox/Grid y animaciones mediante GSAP.
 
-v2 - Landing page de alto rendimiento.
+**v2 - Landing page de alto rendimiento.**
 - **Demo en vivo:** <a href="https://strong-torte-082ae3.netlify.app/" target="_blank" rel="noopener noreferrer">Visitar Frecuenz v2</a>
 - **Stack:** Empaquetado con Vite, animaciones interactivas con Vanilla JS (Canvas API) y optimización Core Web Vitals (WebP y directivas Preload para LCP).
 
