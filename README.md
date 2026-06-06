@@ -25,11 +25,12 @@ Desarrollador en formación con un gran interés en construir soluciones robusta
 
 ### Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="Frontend Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vite" alt="Frontend Icons" />
 </p>
 
 - **Estilos y Maquetación:** Tailwind CSS, Flexbox, CSS Grid
 - **Animaciones e Interacciones:** GSAP
+- **Herramientas de Construcción:** Vite
 
 ### Sistemas, Entornos y Contenedores
 <p align="left">
